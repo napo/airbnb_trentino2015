@@ -7,5 +7,7 @@ https://towardsdatascience.com/exploring-machine-learning-for-airbnb-listings-in
 ma con i dati del Trentino che si trovano qui
 http://insideairbnb.com/trentino/
 
-Qui il sorgente originario
-https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Airbnb%20Listing%20Toronto.ipynb
+Qui il [codice sorgente originario](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Airbnb%20Listing%20Toronto.ipynb)
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/napo/airbnb_trentino2015/master)
